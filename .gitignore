@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Datasets (not redistributed)
+data/
+
+# Generated outputs
+runs/
+cache/
+results/
+*.pt
+*.pth
+*.npy
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
